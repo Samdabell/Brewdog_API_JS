@@ -1,0 +1,23 @@
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+body{
+  background: teal;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5em;
+}
+
+h1{
+  text-align: center;
+}
+
+select{
+  font-family: 'Permanent Marker', cursive;
+  color: teal;
+  font-size: 1.5em;
+}
